@@ -1,1 +1,2 @@
 # ensoprediction
+Los códigos tienen distintos modelos de predicción por separado, lo pensé así por el recurso computacional, cada código entrega el siguiente valor de enso para las 4 zonas y además entrega los estadísticos correspondientes.  Probé con 12 modelos, independiente de que no todos sirven para series de tiempo, la idea es que puedan ver como se resuelve cada código segun el modelo.  Usé un train test 0.7 pero se puede modificar en el código, así como tambien otras variables dependiendo del modelo.
